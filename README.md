@@ -40,6 +40,12 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ---
 
+Result
+---
+**Click image below for video**
+[![IMAGE ALT TEXT](./images/cover.png)](https://youtu.be/3QxnTTflgH0)
+
+
 ## Other Important Dependencies
 
 * cmake >= 3.5
